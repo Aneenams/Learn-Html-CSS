@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav-box1{
+    background-color: rgb(9, 27, 39);
+}
+
+.nav-box1 img{
+    background: transparent;
+}
+
+.container-box1{
+    height: 500px;
+    background-image: url(officewomen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-shadow: 5px 5px 5px rgb(6, 6, 6);
+
+}
+
+.container-p1{
+    margin: 0px 150px ;
+    text-align: center;
+    color: rgb(148, 3, 56);
+}
+
+.container-box2{
+    background-color:rgb(9, 27, 39) ;
+    color: white;
+    height:500px;
+    
+}
+
+.box1{
+    height: 300px;
+}
+
+.contact{
+    background-color: rgb(50, 49, 50);
+}
+
+
+
